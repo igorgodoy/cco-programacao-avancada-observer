@@ -12,7 +12,7 @@ Atividade padrão de projeto - **Observer**.
 6. [Participantes](https://github.com/igorgodoy/cco-programacao-avancada-observer#participantes)
 7. [Implementação](https://github.com/igorgodoy/cco-programacao-avancada-observer#implementa%C3%A7%C3%A3o)
 
-## Composite
+## Observer
 
 ### Classificação
 
